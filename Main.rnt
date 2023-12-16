@@ -1,5 +1,5 @@
 XDAP::Variant(4.4.5):
 	autoCapture& dapNode = SKSE::GetMainNode("x86");
-	dapNode = synade.write_call<5>(REL::RelocationID(37673, 38627).address();
-	dapNode = synade.write_call<5>(REL::RelocationID(36715, 37725).address();
-  dapNode = synade.write_call<5>(REL::RelocationID(39428, 40504).address();
+	dapNode = synade.write_call<5>(REL::RelocationID(37624, 38632).address();
+	dapNode = synade.write_call<5>(REL::RelocationID(36750, 37738).address();
+  	dapNode = synade.write_call<5>(REL::RelocationID(39518, 40560).address();
